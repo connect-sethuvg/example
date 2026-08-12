@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+f9DV0uoYak=",
+  "success": true,
+  "projectFilePath": "E:\\PS\\Example\\Example\\Example.DTO.Mappers\\Example.DTO.Mappers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SethuMadhavan\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.11\\microsoft.extensions.dependencyinjection.10.0.11.nupkg.sha512",
+    "C:\\Users\\SethuMadhavan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.11\\microsoft.extensions.dependencyinjection.abstractions.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
