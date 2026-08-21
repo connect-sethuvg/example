@@ -1,0 +1,14 @@
+E:\PS\Example\Example.DTO.Mappers\bin\Debug\net10.0\Example.DTO.Mappers.deps.json
+E:\PS\Example\Example.DTO.Mappers\bin\Debug\net10.0\Example.DTO.Mappers.dll
+E:\PS\Example\Example.DTO.Mappers\bin\Debug\net10.0\Example.DTO.Mappers.pdb
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\Example.DTO.Mappers.csproj.AssemblyReference.cache
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\Example.DTO.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\Example.DTO.Mappers.AssemblyInfoInputs.cache
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\Example.DTO.Mappers.AssemblyInfo.cs
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\Example.DTO.Mappers.csproj.CoreCompileInputs.cache
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\Example.DTO.Mappers.sourcelink.json
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\Example.DTO.Mappers.dll
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\refint\Example.DTO.Mappers.dll
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\Example.DTO.Mappers.pdb
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\ref\Example.DTO.Mappers.dll
+E:\PS\Example\Example.DTO.Mappers\obj\Debug\net10.0\Example..1C980D79.Up2Date

@@ -6,10 +6,16 @@
   <Folder Name="/Data/">
     <Project Path="Example.Data.Service.Contracts/Example.Data.Service.Contracts.csproj" />
     <Project Path="Example.Data.Services/Example.Data.Services.csproj" />
+    <Project Path="Example.Data/ExampleMS.Data.csproj" Id="2e92f0a2-b6a4-4e69-b2ab-d319d6a95cb7" />
+    <Project Path="ExampleMS.Data.Contracts/ExampleMS.Data.Contracts.csproj" Id="99c77104-ccde-4098-a784-2b515423d6e2" />
   </Folder>
   <Folder Name="/DTOs/">
     <Project Path="Example.DTO.Mappers/Example.DTO.Mappers.csproj" />
     <Project Path="Example.DTOs/Example.DTOs.csproj" />
+  </Folder>
+  <Folder Name="/Framework/">
+    <Project Path="ExampleMs.Framework.Extensions/ExampleMs.Framework.Extensions.csproj" Id="a0e1caf1-8162-46ee-9b36-03339ca5725a" />
+    <Project Path="ExampleMS.Framework/ExampleMS.Framework.csproj" Id="af73fc48-2ec1-4334-869f-6153dd05f0a3" />
   </Folder>
   <Folder Name="/WebAPI/">
     <Project Path="Example/Example.csproj" />

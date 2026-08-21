@@ -1,0 +1,14 @@
+E:\PS\Example\Example.Data.Services\bin\Debug\net10.0\Example.Data.Services.deps.json
+E:\PS\Example\Example.Data.Services\bin\Debug\net10.0\Example.Data.Services.dll
+E:\PS\Example\Example.Data.Services\bin\Debug\net10.0\Example.Data.Services.pdb
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\Example.Data.Services.csproj.AssemblyReference.cache
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\Example.Data.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\Example.Data.Services.AssemblyInfoInputs.cache
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\Example.Data.Services.AssemblyInfo.cs
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\Example.Data.Services.csproj.CoreCompileInputs.cache
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\Example.Data.Services.sourcelink.json
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\Example.Data.Services.dll
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\refint\Example.Data.Services.dll
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\Example.Data.Services.pdb
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\ref\Example.Data.Services.dll
+E:\PS\Example\Example.Data.Services\obj\Debug\net10.0\Example..3C648E70.Up2Date

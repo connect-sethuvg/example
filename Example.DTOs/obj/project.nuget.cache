@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "XI6ejtXpkqw=",
+  "dgSpecHash": "Zugiu+pzQOs=",
   "success": true,
-  "projectFilePath": "E:\\PS\\Example\\Example\\Example.DTOs\\Example.DTOs.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\PS\\Example\\Example.DTOs\\Example.DTOs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SethuMadhavan\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\SethuMadhavan\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\SethuMadhavan\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

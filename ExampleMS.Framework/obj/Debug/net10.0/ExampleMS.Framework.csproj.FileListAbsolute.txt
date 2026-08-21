@@ -1,0 +1,16 @@
+E:\PS\Example\ExampleMS.Framework\bin\Debug\net10.0\ExampleMS.Framework.deps.json
+E:\PS\Example\ExampleMS.Framework\bin\Debug\net10.0\ExampleMS.Framework.runtimeconfig.json
+E:\PS\Example\ExampleMS.Framework\bin\Debug\net10.0\ExampleMS.Framework.dll
+E:\PS\Example\ExampleMS.Framework\bin\Debug\net10.0\ExampleMS.Framework.pdb
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ExampleMS.Framework.csproj.AssemblyReference.cache
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ExampleMS.Framework.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ExampleMS.Framework.AssemblyInfoInputs.cache
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ExampleMS.Framework.AssemblyInfo.cs
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ExampleMS.Framework.csproj.CoreCompileInputs.cache
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ExampleMS.Framework.sourcelink.json
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ExampleMS.Framework.dll
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\refint\ExampleMS.Framework.dll
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ExampleMS.Framework.pdb
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ExampleMS.Framework.genruntimeconfig.cache
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ref\ExampleMS.Framework.dll
+E:\PS\Example\ExampleMS.Framework\obj\Debug\net10.0\ExampleM.CEA2990F.Up2Date

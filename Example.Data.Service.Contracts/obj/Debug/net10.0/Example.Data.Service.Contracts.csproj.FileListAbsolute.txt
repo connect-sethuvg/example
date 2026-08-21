@@ -1,0 +1,14 @@
+E:\PS\Example\Example.Data.Service.Contracts\bin\Debug\net10.0\Example.Data.Service.Contracts.deps.json
+E:\PS\Example\Example.Data.Service.Contracts\bin\Debug\net10.0\Example.Data.Service.Contracts.dll
+E:\PS\Example\Example.Data.Service.Contracts\bin\Debug\net10.0\Example.Data.Service.Contracts.pdb
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\Example.Data.Service.Contracts.csproj.AssemblyReference.cache
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\Example.Data.Service.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\Example.Data.Service.Contracts.AssemblyInfoInputs.cache
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\Example.Data.Service.Contracts.AssemblyInfo.cs
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\Example.Data.Service.Contracts.csproj.CoreCompileInputs.cache
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\Example.Data.Service.Contracts.sourcelink.json
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\Example.Data.Service.Contracts.dll
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\refint\Example.Data.Service.Contracts.dll
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\Example.Data.Service.Contracts.pdb
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\ref\Example.Data.Service.Contracts.dll
+E:\PS\Example\Example.Data.Service.Contracts\obj\Debug\net10.0\Example..8A822CBD.Up2Date

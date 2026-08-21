@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PS\\Example\\NewProjectwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|e:\\ps\\example\\newprojectwork\\newprojectwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|solutionrelative:newprojectwork\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|e:\\ps\\example\\newprojectwork\\newprojectwork\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|solutionrelative:newprojectwork\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|e:\\ps\\example\\newprojectwork\\newprojectwork\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|solutionrelative:newprojectwork\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|e:\\ps\\example\\newprojectwork\\newprojectwork\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|solutionrelative:newprojectwork\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|e:\\ps\\example\\newprojectwork\\newprojectwork\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|solutionrelative:newprojectwork\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|e:\\ps\\example\\newprojectwork\\newprojectwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7A4ACED-7694-4316-A918-CF6B7F400CA5}|NewProjectwork\\NewProjectwork.csproj|solutionrelative:newprojectwork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\Program.cs",
+              "RelativeDocumentMoniker": "NewProjectwork\\Program.cs",
+              "ToolTip": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\Program.cs",
+              "RelativeToolTip": "NewProjectwork\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T03:36:23.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "NewProjectwork\\WeatherForecast.cs",
+              "ToolTip": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\WeatherForecast.cs",
+              "RelativeToolTip": "NewProjectwork\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T04:15:06.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "NewProjectwork\\Models\\Customer.cs",
+              "ToolTip": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\Models\\Customer.cs",
+              "RelativeToolTip": "NewProjectwork\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T04:13:36.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "NewProjectwork\\Models\\Product.cs",
+              "ToolTip": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\Models\\Product.cs",
+              "RelativeToolTip": "NewProjectwork\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T04:13:35.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\Models\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "NewProjectwork\\Models\\StoreDbContext.cs",
+              "ToolTip": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\Models\\StoreDbContext.cs",
+              "RelativeToolTip": "NewProjectwork\\Models\\StoreDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T04:01:10.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\appsettings.json",
+              "RelativeDocumentMoniker": "NewProjectwork\\appsettings.json",
+              "ToolTip": "E:\\PS\\Example\\NewProjectwork\\NewProjectwork\\appsettings.json",
+              "RelativeToolTip": "NewProjectwork\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-19T03:39:07.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

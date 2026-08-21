@@ -10,6 +10,8 @@ namespace Example.DTO.Mappers
         public static IServiceCollection AddMapperServices(this IServiceCollection services)
         {
             // Register all mapper classes here
+            //_ = services.AddScoped<APIDataMapper<IAgent, HierarchyDTO>, HierarchyMapper>();
+
 
             return services;
         }
