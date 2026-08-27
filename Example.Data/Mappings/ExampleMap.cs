@@ -13,9 +13,9 @@ namespace Example.Data.Mappings
         {
             _ = builder.ToTable("Example");
             _ = builder.HasKey(x => x.Id);
-            _ = builder.Property(x => x.Name).IsRequired().HasMaxLength(20);
+            _ = builder.Property(x => x.Surame).IsRequired().HasMaxLength(20);
             _ = builder.Property(x => x.Description).HasMaxLength(20);
-            _= builder.Property(x => x.ActiveStatus).IsRequired();
+            _ = builder.Property(x => x.ActiveStatus).IsRequired();
             _ = builder.Property(x => x.CreatedUserId);
             _ = builder.Property(x => x.EditedUserId);
             _ = builder.Property(x => x.CreatedDate);

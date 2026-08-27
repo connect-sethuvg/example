@@ -9,17 +9,18 @@ namespace Example.Data
 {
     public partial class ExampleMSContext : DbContext
     {
-        public ExampleMSContext(DbContextOptions<ExampleMSContext> options) : base(options)
+
+        public ExampleMSContext()
         {
         }
 
-        protected ExampleMSContext()
+        public ExampleMSContext(DbContextOptions<ExampleMSContext> options) : base(options)
         {
         }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            _ = optionsBuilder.UseSqlServer("server=(localdb)\\MSSQLLocalDB;Database=StoreDb;Trusted_Connection=True;TrustServerCertificate=True");
+            _ = optionsBuilder.UseSqlServer("server=(localdb)\\MSSQLLocalDB;Database=ExampleDb;Trusted_Connection=True;TrustServerCertificate=True");
             //base.OnConfiguring(optionsBuilder);
         }
 

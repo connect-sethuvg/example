@@ -11,6 +11,10 @@
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="10.0.11" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="7.0.2" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.11">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
     <PackageReference Include="Microsoft.Extensions.Logging.ApplicationInsights" Version="2.23.0" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
   </ItemGroup>
@@ -20,6 +24,7 @@
     <ProjectReference Include="..\Example.Business\Example.Business.csproj" />
     <ProjectReference Include="..\Example.Data.Service.Contracts\Example.Data.Service.Contracts.csproj" />
     <ProjectReference Include="..\Example.Data.Services\Example.Data.Services.csproj" />
+    <ProjectReference Include="..\Example.Data\ExampleMS.Data.csproj" />
     <ProjectReference Include="..\Example.DTO.Mappers\Example.DTO.Mappers.csproj" />
     <ProjectReference Include="..\Example.DTOs\Example.DTOs.csproj" />
   </ItemGroup>

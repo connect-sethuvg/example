@@ -8,7 +8,7 @@ namespace Example.Data.Contracts
 {
     public interface IExample : IAudiable, IEntity
     {
-        public string Name { get; set; }
+        public string Surame { get; set; }
         public string Description { get; set; }
         public int ActiveStatus { get; set; }
     }
