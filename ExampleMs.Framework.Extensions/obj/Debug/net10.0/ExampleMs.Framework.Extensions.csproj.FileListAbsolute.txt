@@ -1,0 +1,15 @@
+E:\PS\Example\ExampleMs.Framework.Extensions\bin\Debug\net10.0\ExampleMs.Framework.Extensions.deps.json
+E:\PS\Example\ExampleMs.Framework.Extensions\bin\Debug\net10.0\ExampleMs.Framework.Extensions.dll
+E:\PS\Example\ExampleMs.Framework.Extensions\bin\Debug\net10.0\ExampleMs.Framework.Extensions.pdb
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ExampleMs.Framework.Extensions.ResponseCodes.resources
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ExampleMs.Framework.Extensions.csproj.GenerateResource.cache
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ExampleMs.Framework.Extensions.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ExampleMs.Framework.Extensions.AssemblyInfoInputs.cache
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ExampleMs.Framework.Extensions.AssemblyInfo.cs
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ExampleMs.Framework.Extensions.csproj.CoreCompileInputs.cache
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ExampleMs.Framework.Extensions.sourcelink.json
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ExampleMs.Framework.Extensions.dll
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\refint\ExampleMs.Framework.Extensions.dll
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ExampleMs.Framework.Extensions.pdb
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ref\ExampleMs.Framework.Extensions.dll
+E:\PS\Example\ExampleMs.Framework.Extensions\obj\Debug\net10.0\ExampleM.9068FA33.Up2Date

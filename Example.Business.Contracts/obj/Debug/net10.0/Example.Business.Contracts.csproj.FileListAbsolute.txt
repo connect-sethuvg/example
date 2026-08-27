@@ -1,0 +1,14 @@
+E:\PS\Example\Example.Business.Contracts\bin\Debug\net10.0\Example.Business.Contracts.deps.json
+E:\PS\Example\Example.Business.Contracts\bin\Debug\net10.0\Example.Business.Contracts.dll
+E:\PS\Example\Example.Business.Contracts\bin\Debug\net10.0\Example.Business.Contracts.pdb
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\Example.Business.Contracts.csproj.AssemblyReference.cache
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\Example.Business.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\Example.Business.Contracts.AssemblyInfoInputs.cache
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\Example.Business.Contracts.AssemblyInfo.cs
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\Example.Business.Contracts.csproj.CoreCompileInputs.cache
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\Example.Business.Contracts.sourcelink.json
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\Example.Business.Contracts.dll
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\refint\Example.Business.Contracts.dll
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\Example.Business.Contracts.pdb
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\ref\Example.Business.Contracts.dll
+E:\PS\Example\Example.Business.Contracts\obj\Debug\net10.0\Example..1361AA35.Up2Date

@@ -1,0 +1,16 @@
+E:\PS\Example\ExampleMS.Data.Contracts\bin\Debug\net10.0\Example.Data.Contracts.deps.json
+E:\PS\Example\ExampleMS.Data.Contracts\bin\Debug\net10.0\Example.Data.Contracts.dll
+E:\PS\Example\ExampleMS.Data.Contracts\bin\Debug\net10.0\Example.Data.Contracts.pdb
+E:\PS\Example\ExampleMS.Data.Contracts\bin\Debug\net10.0\ExampleMS.Framework.dll
+E:\PS\Example\ExampleMS.Data.Contracts\bin\Debug\net10.0\ExampleMS.Framework.pdb
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\Example.Data.Contracts.csproj.AssemblyReference.cache
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\Example.Data.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\Example.Data.Contracts.AssemblyInfoInputs.cache
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\Example.Data.Contracts.AssemblyInfo.cs
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\Example.Data.Contracts.csproj.CoreCompileInputs.cache
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\Example.Data.Contracts.sourcelink.json
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\Example..E76B50D1.Up2Date
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\Example.Data.Contracts.dll
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\refint\Example.Data.Contracts.dll
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\Example.Data.Contracts.pdb
+E:\PS\Example\ExampleMS.Data.Contracts\obj\Debug\net10.0\ref\Example.Data.Contracts.dll

@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PS\\Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92F0A2-B6A4-4E69-B2AB-D319D6A95CB7}|Example.Data\\Example.Data.csproj|e:\\ps\\example\\example.data\\examplemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92F0A2-B6A4-4E69-B2AB-D319D6A95CB7}|Example.Data\\Example.Data.csproj|solutionrelative:example.data\\examplemscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF73FC48-2EC1-4334-869F-6153DD05F0A3}|ExampleMS.Framework\\ExampleMS.Framework.csproj|e:\\ps\\example\\examplems.framework\\data\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF73FC48-2EC1-4334-869F-6153DD05F0A3}|ExampleMS.Framework\\ExampleMS.Framework.csproj|solutionrelative:examplems.framework\\data\\entities\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF73FC48-2EC1-4334-869F-6153DD05F0A3}|ExampleMS.Framework\\ExampleMS.Framework.csproj|e:\\ps\\example\\examplems.framework\\data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF73FC48-2EC1-4334-869F-6153DD05F0A3}|ExampleMS.Framework\\ExampleMS.Framework.csproj|solutionrelative:examplems.framework\\data\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92F0A2-B6A4-4E69-B2AB-D319D6A95CB7}|Example.Data\\ExampleMS.Data.csproj|e:\\ps\\example\\example.data\\entities\\exampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92F0A2-B6A4-4E69-B2AB-D319D6A95CB7}|Example.Data\\ExampleMS.Data.csproj|solutionrelative:example.data\\entities\\exampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92F0A2-B6A4-4E69-B2AB-D319D6A95CB7}|Example.Data\\Example.Data.csproj|e:\\ps\\example\\example.data\\mappings\\examplemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92F0A2-B6A4-4E69-B2AB-D319D6A95CB7}|Example.Data\\Example.Data.csproj|solutionrelative:example.data\\mappings\\examplemap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E92F0A2-B6A4-4E69-B2AB-D319D6A95CB7}|Example.Data\\Example.Data.csproj|e:\\ps\\example\\example.data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E92F0A2-B6A4-4E69-B2AB-D319D6A95CB7}|Example.Data\\Example.Data.csproj|solutionrelative:example.data\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C77104-CCDE-4098-A784-2B515423D6E2}|ExampleMS.Data.Contracts\\Example.Data.Contracts.csproj|e:\\ps\\example\\examplems.data.contracts\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C77104-CCDE-4098-A784-2B515423D6E2}|ExampleMS.Data.Contracts\\Example.Data.Contracts.csproj|solutionrelative:examplems.data.contracts\\iexample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF73FC48-2EC1-4334-869F-6153DD05F0A3}|ExampleMS.Framework\\ExampleMS.Framework.csproj|e:\\ps\\example\\examplems.framework\\data\\entities\\iaudiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF73FC48-2EC1-4334-869F-6153DD05F0A3}|ExampleMS.Framework\\ExampleMS.Framework.csproj|solutionrelative:examplems.framework\\data\\entities\\iaudiable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FC842C-5103-E242-CA0E-06B13ABAA9ED}|Example\\Example.csproj|e:\\ps\\example\\example\\controllers\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FC842C-5103-E242-CA0E-06B13ABAA9ED}|Example\\Example.csproj|solutionrelative:example\\controllers\\example.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FC842C-5103-E242-CA0E-06B13ABAA9ED}|Example\\Example.csproj|e:\\ps\\example\\example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FC842C-5103-E242-CA0E-06B13ABAA9ED}|Example\\Example.csproj|solutionrelative:example\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExampleData.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\Example.Data\\Entities\\ExampleData.cs",
+              "RelativeDocumentMoniker": "Example.Data\\Entities\\ExampleData.cs",
+              "ToolTip": "E:\\PS\\Example\\Example.Data\\Entities\\ExampleData.cs",
+              "RelativeToolTip": "Example.Data\\Entities\\ExampleData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T09:50:06.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExampleMap.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\Example.Data\\Mappings\\ExampleMap.cs",
+              "RelativeDocumentMoniker": "Example.Data\\Mappings\\ExampleMap.cs",
+              "ToolTip": "E:\\PS\\Example\\Example.Data\\Mappings\\ExampleMap.cs",
+              "RelativeToolTip": "Example.Data\\Mappings\\ExampleMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T03:20:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\Example.Data\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Example.Data\\DependencyInjection.cs",
+              "ToolTip": "E:\\PS\\Example\\Example.Data\\DependencyInjection.cs",
+              "RelativeToolTip": "Example.Data\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:08:07.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\ExampleMS.Framework\\Data\\Entities\\IEntity.cs",
+              "RelativeDocumentMoniker": "ExampleMS.Framework\\Data\\Entities\\IEntity.cs",
+              "ToolTip": "E:\\PS\\Example\\ExampleMS.Framework\\Data\\Entities\\IEntity.cs",
+              "RelativeToolTip": "ExampleMS.Framework\\Data\\Entities\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:04:37.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\ExampleMS.Framework\\Data\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ExampleMS.Framework\\Data\\Entities\\BaseEntity.cs",
+              "ToolTip": "E:\\PS\\Example\\ExampleMS.Framework\\Data\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "ExampleMS.Framework\\Data\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:01:02.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IExample.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\ExampleMS.Data.Contracts\\IExample.cs",
+              "RelativeDocumentMoniker": "ExampleMS.Data.Contracts\\IExample.cs",
+              "ToolTip": "E:\\PS\\Example\\ExampleMS.Data.Contracts\\IExample.cs",
+              "RelativeToolTip": "ExampleMS.Data.Contracts\\IExample.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:59:36.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExampleMSContext.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\Example.Data\\ExampleMSContext.cs",
+              "RelativeDocumentMoniker": "Example.Data\\ExampleMSContext.cs",
+              "ToolTip": "E:\\PS\\Example\\Example.Data\\ExampleMSContext.cs",
+              "RelativeToolTip": "Example.Data\\ExampleMSContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:45:21.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAudiable.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\ExampleMS.Framework\\Data\\Entities\\IAudiable.cs",
+              "RelativeDocumentMoniker": "ExampleMS.Framework\\Data\\Entities\\IAudiable.cs",
+              "ToolTip": "E:\\PS\\Example\\ExampleMS.Framework\\Data\\Entities\\IAudiable.cs",
+              "RelativeToolTip": "ExampleMS.Framework\\Data\\Entities\\IAudiable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T11:05:07.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Example.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\Example\\Controllers\\Example.cs",
+              "RelativeDocumentMoniker": "Example\\Controllers\\Example.cs",
+              "ToolTip": "E:\\PS\\Example\\Example\\Controllers\\Example.cs",
+              "RelativeToolTip": "Example\\Controllers\\Example.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:09:30.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\PS\\Example\\Example\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Example\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\PS\\Example\\Example\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Example\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T10:09:27.909Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

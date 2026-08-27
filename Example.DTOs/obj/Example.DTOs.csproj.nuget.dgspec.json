@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PS\\Example\\Example\\Example.DTOs\\Example.DTOs.csproj": {}
+    "E:\\PS\\Example\\Example.DTOs\\Example.DTOs.csproj": {}
   },
   "projects": {
-    "E:\\PS\\Example\\Example\\Example.DTOs\\Example.DTOs.csproj": {
+    "E:\\PS\\Example\\Example.DTOs\\Example.DTOs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PS\\Example\\Example\\Example.DTOs\\Example.DTOs.csproj",
+        "projectUniqueName": "E:\\PS\\Example\\Example.DTOs\\Example.DTOs.csproj",
         "projectName": "Example.DTOs",
-        "projectPath": "E:\\PS\\Example\\Example\\Example.DTOs\\Example.DTOs.csproj",
+        "projectPath": "E:\\PS\\Example\\Example.DTOs\\Example.DTOs.csproj",
         "packagesPath": "C:\\Users\\SethuMadhavan\\.nuget\\packages\\",
-        "outputPath": "E:\\PS\\Example\\Example\\Example.DTOs\\obj\\",
+        "outputPath": "E:\\PS\\Example\\Example.DTOs\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,16 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "zMSrmVRryVo=",
+  "dgSpecHash": "FgYxUin1G2E=",
   "success": true,
-  "projectFilePath": "E:\\PS\\Example\\Example\\Example.Business.Contracts\\Example.Business.Contracts.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\PS\\Example\\Example.Business.Contracts\\Example.Business.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SethuMadhavan\\.nuget\\packages\\elasticsearch.net\\7.17.5\\elasticsearch.net.7.17.5.nupkg.sha512",
+    "C:\\Users\\SethuMadhavan\\.nuget\\packages\\nest\\7.17.5\\nest.7.17.5.nupkg.sha512",
+    "C:\\Users\\SethuMadhavan\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }

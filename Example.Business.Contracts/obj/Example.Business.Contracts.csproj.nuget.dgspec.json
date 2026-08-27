@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PS\\Example\\Example\\Example.Business.Contracts\\Example.Business.Contracts.csproj": {}
+    "E:\\PS\\Example\\Example.Business.Contracts\\Example.Business.Contracts.csproj": {}
   },
   "projects": {
-    "E:\\PS\\Example\\Example\\Example.Business.Contracts\\Example.Business.Contracts.csproj": {
+    "E:\\PS\\Example\\Example.Business.Contracts\\Example.Business.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PS\\Example\\Example\\Example.Business.Contracts\\Example.Business.Contracts.csproj",
+        "projectUniqueName": "E:\\PS\\Example\\Example.Business.Contracts\\Example.Business.Contracts.csproj",
         "projectName": "Example.Business.Contracts",
-        "projectPath": "E:\\PS\\Example\\Example\\Example.Business.Contracts\\Example.Business.Contracts.csproj",
+        "projectPath": "E:\\PS\\Example\\Example.Business.Contracts\\Example.Business.Contracts.csproj",
         "packagesPath": "C:\\Users\\SethuMadhavan\\.nuget\\packages\\",
-        "outputPath": "E:\\PS\\Example\\Example\\Example.Business.Contracts\\obj\\",
+        "outputPath": "E:\\PS\\Example\\Example.Business.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -52,6 +52,16 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
+          "dependencies": {
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

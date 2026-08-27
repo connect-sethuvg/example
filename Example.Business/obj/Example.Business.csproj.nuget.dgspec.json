@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\PS\\Example\\Example\\Example.Business\\Example.Business.csproj": {}
+    "E:\\PS\\Example\\Example.Business\\Example.Business.csproj": {}
   },
   "projects": {
-    "E:\\PS\\Example\\Example\\Example.Business\\Example.Business.csproj": {
+    "E:\\PS\\Example\\Example.Business\\Example.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\PS\\Example\\Example\\Example.Business\\Example.Business.csproj",
+        "projectUniqueName": "E:\\PS\\Example\\Example.Business\\Example.Business.csproj",
         "projectName": "Example.Business",
-        "projectPath": "E:\\PS\\Example\\Example\\Example.Business\\Example.Business.csproj",
+        "projectPath": "E:\\PS\\Example\\Example.Business\\Example.Business.csproj",
         "packagesPath": "C:\\Users\\SethuMadhavan\\.nuget\\packages\\",
-        "outputPath": "E:\\PS\\Example\\Example\\Example.Business\\obj\\",
+        "outputPath": "E:\\PS\\Example\\Example.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,11 +53,27 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.11, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[10.0.11, )"
+            },
             "Microsoft.Extensions.Configuration.UserSecrets": {
               "target": "Package",
-              "version": "[6.0.1, )"
+              "version": "[10.0.11, )"
             },
             "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.11, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[10.0.11, )"
             }

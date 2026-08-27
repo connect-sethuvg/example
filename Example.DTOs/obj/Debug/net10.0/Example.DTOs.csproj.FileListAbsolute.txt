@@ -1,0 +1,14 @@
+E:\PS\Example\Example.DTOs\bin\Debug\net10.0\Example.DTOs.deps.json
+E:\PS\Example\Example.DTOs\bin\Debug\net10.0\Example.DTOs.dll
+E:\PS\Example\Example.DTOs\bin\Debug\net10.0\Example.DTOs.pdb
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\Example.DTOs.csproj.AssemblyReference.cache
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\Example.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\Example.DTOs.AssemblyInfoInputs.cache
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\Example.DTOs.AssemblyInfo.cs
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\Example.DTOs.csproj.CoreCompileInputs.cache
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\Example.DTOs.sourcelink.json
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\Example.DTOs.dll
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\refint\Example.DTOs.dll
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\Example.DTOs.pdb
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\ref\Example.DTOs.dll
+E:\PS\Example\Example.DTOs\obj\Debug\net10.0\Example..C388C10F.Up2Date
